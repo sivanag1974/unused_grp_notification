@@ -29,4 +29,8 @@ public class AccountServiceApplicationTests {
 
 	}
 
+	@Test
+	public void testAccountService_valid() {
+	}
+
 }
